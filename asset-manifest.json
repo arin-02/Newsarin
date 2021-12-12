@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Newsarin/static/css/main.a617e044.chunk.css",
+    "main.js": "/Newsarin/static/js/main.1c5873a6.chunk.js",
+    "main.js.map": "/Newsarin/static/js/main.1c5873a6.chunk.js.map",
+    "runtime-main.js": "/Newsarin/static/js/runtime-main.b84982d5.js",
+    "runtime-main.js.map": "/Newsarin/static/js/runtime-main.b84982d5.js.map",
+    "static/js/2.6c4e2e0f.chunk.js": "/Newsarin/static/js/2.6c4e2e0f.chunk.js",
+    "static/js/2.6c4e2e0f.chunk.js.map": "/Newsarin/static/js/2.6c4e2e0f.chunk.js.map",
+    "static/js/3.d1e73f54.chunk.js": "/Newsarin/static/js/3.d1e73f54.chunk.js",
+    "static/js/3.d1e73f54.chunk.js.map": "/Newsarin/static/js/3.d1e73f54.chunk.js.map",
+    "index.html": "/Newsarin/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Newsarin/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6c4e2e0f.chunk.js.LICENSE.txt": "/Newsarin/static/js/2.6c4e2e0f.chunk.js.LICENSE.txt",
+    "static/media/loading.b2be5b09.gif": "/Newsarin/static/media/loading.b2be5b09.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b84982d5.js",
+    "static/js/2.6c4e2e0f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1c5873a6.chunk.js"
+  ]
+}
